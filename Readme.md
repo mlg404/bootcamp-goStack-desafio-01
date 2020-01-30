@@ -4,7 +4,8 @@
 </h1>
 
 <h4 align="center">
-  Desafio do módulo 01 do bootcamp da <a href="https://rocketseat.com.br/">Rocketseat</a>, feito em Node.js
+  Desafio do módulo 01 do bootcamp da <a href="https://rocketseat.com.br/">Rocketseat</a>, feito em Node.js.
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01">Veja o desafio aqui!</a>
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mlg404/bootcamp-goStack-desafio-01.svg">
@@ -30,10 +31,10 @@
 </p>
 
 <p align="center">
-  <img alt="Web Gif" src="https://i.imgur.com/knqfG5j.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/nMo4Up9.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/iOFCDw7.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/VMu0dET.gif">
+  <img alt="Web Gif" src="https://i.imgur.com/aWRCHE7.gif">
+  <img alt="Web Gif" src="https://i.imgur.com/yslzhaC.gif">
+  <img alt="Web Gif" src="https://i.imgur.com/XhNiNln.gif">
+  <img alt="Web Gif" src="https://i.imgur.com/t2gi2KS.gif">
 </p>
 
 ## :rocket: Tehnologias
